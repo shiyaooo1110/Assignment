@@ -1,0 +1,100 @@
+ 1    12.45     45.32     67.89     Machinery        5
+ 2    22.15     53.20     41.75     Furniture        9
+ 3    34.25     12.44     55.60     Clothing         7
+ 4    45.30     24.20     35.80     Miscellaneous   10
+ 5    56.10     65.50     20.45     Machinery        8
+ 6    67.75     34.20     42.90     Furniture       12
+ 7    11.25     77.35     68.50     Clothing         4
+ 8    18.60     25.75     59.25     Miscellaneous   11
+ 9    29.40     66.45     30.10     Machinery        6
+10    38.70     12.85     71.50     Furniture       14
+11    42.20     45.10     62.35     Clothing         5
+12    53.35     23.60     19.80     Miscellaneous    9
+13    65.55     48.25     41.10     Machinery        7
+14    71.20     58.40     51.90     Furniture       13
+15    19.30     62.20     73.15     Clothing        15
+16    27.85     13.40     46.30     Miscellaneous   10
+17    39.50     71.90     32.20     Machinery        8
+18    48.10     17.60     64.75     Furniture       15
+19    59.65     35.40     58.45     Clothing         5
+20    62.10     42.30     21.90     Miscellaneous   12
+21    13.85     59.20     70.10     Machinery        7
+22    24.50     27.15     63.75     Furniture        9
+23    36.40     19.75     44.50     Clothing         4
+24    47.10     62.35     39.25     Miscellaneous    8
+25    58.75     14.60     61.30     Machinery        6
+26    15.20     41.35     73.50     Furniture       10
+27    28.60     65.10     26.85     Clothing         7
+28    31.75     23.40     49.10     Miscellaneous    9
+29    49.20     71.60     38.20     Machinery        5
+30    61.15     18.75     66.90     Furniture       11
+31    12.25     50.40     69.75     Clothing         6
+32    21.90     15.60     43.20     Miscellaneous    8
+33    33.45     72.80     35.90     Machinery        7
+34    46.30     20.50     60.40     Furniture       13
+35    57.80     36.20     47.30     Clothing         5
+36    62.90     43.10     22.70     Miscellaneous   11
+37    17.10     57.60     71.80     Machinery        8
+38    26.35     28.90     65.60     Furniture       10
+39    37.50     21.20     48.35     Clothing         6
+40    48.65     63.50     36.70     Miscellaneous    9
+41    59.20     16.10     63.30     Machinery        7
+42    16.95     39.20     72.10     Furniture       12
+43    29.40     67.80     28.60     Clothing         5
+44    31.10     24.75     51.50     Miscellaneous   10
+45    50.80     70.20     37.15     Machinery        6
+46    63.20     19.85     67.10     Furniture       11
+47    14.35     53.90     70.20     Clothing         7
+48    23.70     16.20     45.25     Miscellaneous    8
+49    35.60     74.50     31.30     Machinery        5
+50    45.90     21.50     62.70     Furniture       13
+51    56.45     37.30     55.10     Clothing         6
+52    61.30     44.40     23.80     Miscellaneous    9
+53    18.50     60.20     74.10     Machinery        7
+54    27.65     30.10     67.40     Furniture       10
+55    38.30     22.30     50.10     Clothing         5
+56    49.40     64.40     37.90     Miscellaneous   11
+57    60.90     17.20     64.10     Machinery        8
+58    13.30     42.50     73.30     Furniture       12
+59    25.10     68.90     29.70     Clothing         6
+60    32.85     25.30     52.50     Miscellaneous    9
+61    41.70     73.80     40.80     Machinery        7
+62    54.20     22.20     61.40     Furniture       14
+63    66.30     38.10     46.80     Clothing         5
+64    15.70     58.70     72.80     Miscellaneous   10
+65    24.10     29.20     66.40     Machinery        8
+66    36.00     23.30     47.90     Furniture       11
+67    47.50     65.30     33.20     Clothing         6
+68    59.40     18.20     62.20     Miscellaneous    9
+69    12.85     41.20     74.00     Machinery        7
+70    26.50     69.10     27.50     Furniture       13
+71    37.10     26.10     53.00     Clothing         5
+72    49.10     71.10     39.80     Miscellaneous   11
+73    61.50     20.10     65.20     Machinery        8
+74    14.90     55.10     69.00     Furniture       12
+75    28.20     17.90     44.90     Clothing         6
+76    33.60     75.50     32.10     Miscellaneous    9
+77    42.90     22.80     60.90     Machinery        7
+78    56.20     39.10     57.00     Furniture       11
+79    66.70     45.50     24.30     Clothing         5
+80    19.10     61.10     73.70     Miscellaneous   10
+81    27.40     31.40     68.20     Machinery        8
+82    39.10     24.80     49.50     Furniture       14
+83    50.80     66.70     34.30     Clothing         6
+84    61.10     19.10     63.20     Miscellaneous    9
+85    16.10     43.50     72.40     Machinery        7
+86    29.10     70.10     30.70     Furniture       13
+87    40.60     27.10     51.70     Clothing         5
+88    51.70     72.40     38.40     Miscellaneous   11
+89    63.10     21.10     66.00     Machinery        8
+90    13.90     56.10     70.60     Furniture       12
+91    25.80     18.40     45.90     Clothing         6
+92    34.50     76.10     33.40     Miscellaneous    9
+93    43.10     23.90     60.50     Machinery        7
+94    54.90     40.10     57.90     Furniture       11
+95    66.10     46.70     25.10     Clothing         5
+96    17.50     59.10     74.40     Miscellaneous   10
+97    26.10     32.90     68.90     Machinery        8
+98    38.00     25.60     50.90     Furniture       14
+99    48.80     68.10     35.30     Clothing         6
+100   60.30     20.90     64.30     Miscellaneous    9
